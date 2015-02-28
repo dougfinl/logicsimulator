@@ -1,0 +1,11 @@
+backup/
+
+lib/
+*.compiled
+*.o
+*.or
+*.ppu
+
+*.dbg
+
+*.exe
